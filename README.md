@@ -2,7 +2,7 @@
 
 
 
-A Git project designed to help students manage their daily tasks.
+A beginner Git project for organizing student assignments and managing daily tasks.
 
 and practicing version control with Git and GitHub.
 
