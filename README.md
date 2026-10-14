@@ -18,3 +18,7 @@ and practicing version control with Git and GitHub.
 
 \- Collaborate using branches and pull requests
 
+## Development
+
+This project is being used to practice Git collaboration,
+branching, and remote repository synchronization.
