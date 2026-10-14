@@ -2,7 +2,7 @@
 
 
 
-A beginner Git project for tracking student tasks
+A beginner Git project for organizing student assignments.
 
 and practicing version control with Git and GitHub.
 
