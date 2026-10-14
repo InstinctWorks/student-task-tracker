@@ -1,3 +1,4 @@
 1. Create project documentation
 2. Implement task tracking functionality
 3. Test the Student Task Tracker
+4. Add task priority levels
